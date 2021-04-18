@@ -5,7 +5,7 @@ Data Set which consists of 136X102 images (mostly).
 in this one we recived pretty much poor results.
 You can see that try in the SHOECGAN file.
 
-After that We concluded a deep GAN net might improve the results, so we explored for
+After that we concluded a deep GAN net might improve the results, so we explored for
 a deep GAN net architecture, and the results became much much better.
 We enable to creat Shoe, Boot, Sandal or Slipper images.
 You can see the final results in the file **SHOE_GAN256_DEEP.ipynb**.
